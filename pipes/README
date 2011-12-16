@@ -1,0 +1,1 @@
+./prepend1.py < stuff.txt | ./prepend2.py | ./prepend3.py > output.txt
